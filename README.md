@@ -22,8 +22,9 @@ Dilate the Image
 
  
 ## Program:
-## DEVELOPED BY : J NETHRAA
-## REGISTER NO: 212222100031
+
+### DEVELOPED BY : J NETHRAA
+### REGISTER NO: 212222100031
 
 # Import the necessary packages
 ```PY
